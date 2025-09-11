@@ -34,7 +34,7 @@ header = `<header class="site-header">
             <img src="images/logo.avif" class="logo img-fluid" alt="Logo of Endless Strands.">
             <span>
                 Endless Strands
-                <small>17041730 Canada Association</small>
+                <small>Canada</small>
             </span>
         </a>
 
