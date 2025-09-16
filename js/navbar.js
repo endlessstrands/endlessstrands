@@ -15,7 +15,7 @@ header = `<header class="site-header">
             <div class="col-lg-3 col-12 ms-auto d-lg-block d-none">
                 <ul class="social-icon">
                     <li class="social-icon-item">
-                        <a href="https://www.instagram.com/endless.strands.canada" class="social-icon-link bi-instagram"
+                        <a href="https://www.instagram.com/endlessstrands" class="social-icon-link bi-instagram"
                             target="_blank">
                             <span class="visually-hidden">Visit Instagram</span>
                         </a>
@@ -115,9 +115,9 @@ footer = `<footer class="site-footer">
                 <p class="text-white d-flex mt-3">
                     <i class="bi-instagram me-2"></i>
 
-                    <a href="https://www.instagram.com/endless.strands.canada" class="site-footer-link"
+                    <a href="https://www.instagram.com/endlessstrands" class="site-footer-link"
                         target="_blank">
-                        @endless.strands.canada
+                        @endlessstrands
                     </a>
                 </p>
             </div>
