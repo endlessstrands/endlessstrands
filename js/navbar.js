@@ -132,6 +132,7 @@ footer = `<footer class="site-footer">
                     <p class="copyright-text mb-0">Copyright © 2025 Endless Strands</p>
                     <p class="copyright-text mb-0">Endless Strands is a federally incorporated not-for-profit
                         organization.</p>
+                    <p><a href="privacy_policy.html" target="_blank">Privacy Policy</a></p>
                 </div>
 
             </div>
